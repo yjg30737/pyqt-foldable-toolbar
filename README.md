@@ -11,7 +11,7 @@ PyQt foldable toolbar
 * <a href="https://github.com/yjg30737/pyqt-svg-icon-pushbutton.git">pyqt-svg-icon-pushbutton</a>
 
 ## Example
-Code Sample
+### Code Sample
 ```python
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTextEdit
 from pyqt_foldable_toolbar import FoldableToolBar
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 ```
 
-Result
+### Result
 
 Unfold
 
