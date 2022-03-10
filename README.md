@@ -31,7 +31,9 @@ if __name__ == "__main__":
 Result
 
 Unfold
+
 ![image](https://user-images.githubusercontent.com/55078043/157591512-9654f7c5-b852-48f9-95bf-2ac22baa182b.png)
 
 Fold
+
 ![image](https://user-images.githubusercontent.com/55078043/157591529-2b1ccbb9-5f9b-4342-a52b-d4d48e7e15c5.png)
