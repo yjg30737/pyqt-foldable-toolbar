@@ -7,7 +7,7 @@ There is fold/unfold animation to look it better.
 * PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-foldable-toolbar.git --upgrade```
+`python -m pip install pyqt-foldable-toolbar`
 
 ## Included Packages
 * <a href="https://github.com/yjg30737/pyqt-svg-icon-pushbutton.git">pyqt-svg-icon-pushbutton</a>
@@ -40,7 +40,7 @@ Fold
 
 ![image](https://user-images.githubusercontent.com/55078043/157591529-2b1ccbb9-5f9b-4342-a52b-d4d48e7e15c5.png)
 
-Here's another example!
+Here's another example with `SettingsDialog` in <a href="https://github.com/yjg30737/pyqt-timer.git">pyqt-timer</a>.
 
 Unfold
 
