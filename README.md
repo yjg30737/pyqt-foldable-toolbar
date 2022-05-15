@@ -1,5 +1,5 @@
 # pyqt-foldable-toolbar
-PyQt foldable toolbar. You can add widget with `addWidget(widget)`. You can see how to use it in the example below.
+PyQt foldable/hidable toolbar. You can add widget with `addWidget(widget)`. You can see how to use it in the example below.
 
 There is fold/unfold animation to look it better.
 
