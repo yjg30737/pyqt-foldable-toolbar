@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QToolBar, QWidget, QHBoxLayout, QSizePolicy, QAction, QWidgetAction
 from PyQt5.QtCore import Qt, QPropertyAnimation, QAbstractAnimation
-from pyqt_svg_icon_pushbutton import SvgIconPushButton
+from pyqt_svg_button import SvgButton
 
 
 class FoldableToolBar(QToolBar):
@@ -11,7 +11,7 @@ class FoldableToolBar(QToolBar):
     def __initUi(self):
         self.setMovable(False)
 
-        self.__foldBtn = SvgIconPushButton()
+        self.__foldBtn = SvgButton()
         self.__foldBtn.setIcon('ico/fold.svg')
         self.__foldBtn.setCheckable(True)
         self.__foldBtn.toggled.connect(self.__fold)
